@@ -1,6 +1,6 @@
 ---
 title: "LaborDay"
-author: "Catlin"
+author: "Andy Catlin"
 date: "September 2, 2018"
 output: html_document
 ---
